@@ -12,7 +12,7 @@ namespace HelloVSSourceControl
         {
             Console.WriteLine("Welcome to the wonderful world of GitHub!");
 
-            Console.WriteLine("Press any key to end.");
+            Console.WriteLine("Press a key to end.");
             Console.ReadKey();
         }
     }
